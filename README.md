@@ -1,6 +1,5 @@
 TWItestInt
 
-Test project to develop autonomous LCD1602 display connected via TWI (i2c) interface,
-that able to receive bytes data via USART and display it on LCD in hexadecimal format.
+Test routines to develop autonomous USART debugging tool that displays bytes from USART on LCD1602.
 
 Project is still in develop state and its proper work is not guaranteed
